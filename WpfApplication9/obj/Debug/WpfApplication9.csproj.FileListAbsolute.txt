@@ -1,0 +1,15 @@
+c:\users\yurifeng\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\bin\Debug\WpfApplication9.exe
+c:\users\yurifeng\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\bin\Debug\WpfApplication9.pdb
+c:\users\yurifeng\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.csprojResolveAssemblyReference.cache
+c:\users\yurifeng\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\MainWindow.g.cs
+c:\users\yurifeng\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\App.g.cs
+c:\users\yurifeng\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9_MarkupCompile.cache
+c:\users\yurifeng\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9_MarkupCompile.lref
+c:\users\yurifeng\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\MainWindow.baml
+c:\users\yurifeng\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.g.resources
+c:\users\yurifeng\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.Properties.Resources.resources
+c:\users\yurifeng\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.csproj.GenerateResource.Cache
+c:\users\yurifeng\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.exe
+c:\users\yurifeng\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.pdb
+c:\users\yurifeng\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\dialogbox.g.cs
+c:\users\yurifeng\documents\visual studio 2015\Projects\WpfApplication9\WpfApplication9\obj\Debug\dialogbox.baml
